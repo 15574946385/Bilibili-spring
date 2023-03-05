@@ -1,4 +1,4 @@
-package com.example.test;
+package com.andrewsong.test;
 
 import com.andrew.song.bean.UserBean;
 import com.andrew.song.service.UserService;

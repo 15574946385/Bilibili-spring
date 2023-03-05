@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller
 public class VideoDetailController {
+
     @RequestMapping("/videodetail")
     @ResponseBody
     public ResponseEntity<VideoBean> videoDetail(){
