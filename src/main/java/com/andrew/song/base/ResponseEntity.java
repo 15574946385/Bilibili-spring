@@ -1,6 +1,6 @@
-package com.example.test.base;
+package com.andrew.song.base;
 
-import com.example.test.constant.ResponseCode;
+import com.andrew.song.constant.ResponseCode;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 

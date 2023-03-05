@@ -1,8 +1,8 @@
-package com.example.test.serviceImpl;
+package com.andrew.song.serviceImpl;
 
-import com.example.test.bean.UserBean;
-import com.example.test.mapper.UserMapper;
-import com.example.test.service.UserService;
+import com.andrew.song.bean.UserBean;
+import com.andrew.song.mapper.UserMapper;
+import com.andrew.song.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

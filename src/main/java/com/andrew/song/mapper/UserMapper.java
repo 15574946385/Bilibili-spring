@@ -1,6 +1,6 @@
-package com.example.test.mapper;
+package com.andrew.song.mapper;
 
-import com.example.test.bean.UserBean;
+import com.andrew.song.bean.UserBean;
 
 public interface UserMapper {
 

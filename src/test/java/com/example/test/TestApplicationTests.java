@@ -1,7 +1,7 @@
 package com.example.test;
 
-import com.example.test.bean.UserBean;
-import com.example.test.service.UserService;
+import com.andrew.song.bean.UserBean;
+import com.andrew.song.service.UserService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

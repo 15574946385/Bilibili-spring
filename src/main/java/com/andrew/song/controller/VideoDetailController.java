@@ -1,8 +1,8 @@
-package com.example.test.controller;
+package com.andrew.song.controller;
 
 
-import com.example.test.base.ResponseEntity;
-import com.example.test.bean.VideoBean;
+import com.andrew.song.base.ResponseEntity;
+import com.andrew.song.bean.VideoBean;
 import org.springframework.stereotype.Controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;

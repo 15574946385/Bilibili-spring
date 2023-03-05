@@ -1,4 +1,4 @@
-package com.example.test.constant;
+package com.andrew.song.constant;
 
 
 import java.lang.annotation.Retention;

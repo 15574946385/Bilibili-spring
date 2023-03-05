@@ -1,4 +1,4 @@
-package com.example.test.bean;
+package com.andrew.song.bean;
 
 public class VideoBean {
 

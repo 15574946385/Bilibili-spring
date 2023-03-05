@@ -1,6 +1,6 @@
-package com.example.test.service;
+package com.andrew.song.service;
 
-import com.example.test.bean.UserBean;
+import com.andrew.song.bean.UserBean;
 
 public interface UserService {
 
